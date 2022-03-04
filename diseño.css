@@ -1,0 +1,26 @@
+body{		
+   background-color: darkcyan;
+    }
+h2{
+	text-align: center
+}
+.center{
+	text-align:center;	
+}
+#t1{
+	text-align: left;
+}
+table {
+   width: 100%;
+   border: 3px solid mediumpurple;
+   border-spacing:2px;
+   border-collapse: separate;
+   background:mediumpurple;
+}
+td, th {
+   background: #fff;
+   color: #000;
+}
+#t2{
+	text-align: center;	
+}
